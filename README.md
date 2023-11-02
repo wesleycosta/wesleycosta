@@ -1,4 +1,4 @@
-### Oi, eu sou o Wesley! 👋
+### Oi, sou o Wesley! 👋
 
 Dssenvolvedor .NET | C# | TS | Node | NestJS | Angular
 
