@@ -1,5 +1,7 @@
-### Oi, sou o Wesley! 👋
+# Wesley Costa - Software Engineer
 
-Dssenvolvedor .NET | C# | TS | Node | NestJS | Angular
+🚀 Experienced software engineer with 8+ years in development and architecture.
 
-🔭 Atualmente tô trampando na Mouts/Ambev Tech
+📫 Connect with me on LinkedIn. Let's collaborate and innovate together!
+
+🌐 Check out my projects and contributions. Thank you for visiting!
