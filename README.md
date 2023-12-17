@@ -2,4 +2,4 @@
 
 Dssenvolvedor .NET | C# | TS | Node | NestJS | Angular
 
-🔭 Atualmente tô trampando na Way2 Technology
+🔭 Atualmente tô trampando na Mouts/Ambev Tech
