@@ -1,4 +1,4 @@
-# Wesley Costa - Software Engineer
+# Wesley Costa
 
 🚀 Experienced software developer with 8+ years in development and architecture.
 
