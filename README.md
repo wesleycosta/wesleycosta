@@ -19,3 +19,4 @@ I specialize in **.NET**, **Angular**, and **NestJS**, with a strong focus on **
 
 - [LinkedIn](https://www.linkedin.com/in/wesleylcosta)
 - [Instagram](https://www.instagram.com/oiwesleycosta)
+- [Steam](https://steamcommunity.com/id/tripeira)
