@@ -6,10 +6,10 @@ I specialize in **.NET**, **Angular**, and **NestJS**, with a strong focus on **
 
 ## 🚀 Skills
 
-- **Backend**: .NET, C#, Golang, Node.js
+- **Backend**: .NET, C#, Node.js
 - **Frontend**: Angular
 - **Databases**: SQL Server, PostgreSQL, Redis, MongoDB
-- **Messaging**: RabbitMQ, Service Bus, EventHubs, SQS, Kafka
+- **Messaging**: RabbitMQ, Service Bus, EventHubs, SQS
 - **Architecture**: SOLID, DDD, CQRS, Microservices, Hexagonal Architecture
 - **Cloud**: Azure, AWS
 - **DevOps**: Docker, Kubernetes, Azure DevOps, GitHub Actions
