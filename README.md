@@ -4,11 +4,11 @@
 
 ## 🚀 Skills
 
-- **Backend**: .NET, C#, Node.js
+- **Backend**: .NET, C#, NestJS
 - **Frontend**: Angular
 - **Databases**: SQL Server, PostgreSQL, Redis, MongoDB
 - **Messaging**: RabbitMQ, Service Bus, EventHubs, SQS
-- **Architecture**: SOLID, DDD, CQRS, Microservices, Hexagonal Architecture
+- **Architecture**: SOLID, DDD, CQRS, Microservices, Hexagonal Architecture, EDA
 - **DevOps**: Docker, Kubernetes, Azure DevOps, GitHub Actions
 
 
