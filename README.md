@@ -1,6 +1,6 @@
 # Wesley Costa - Software Engineer
 
-👋 Hi, I'm **Wesley Costa**, a software engineer with 8+ years of experience in development and software architecture. 
+👋 Hi, I'm **Wesley Costa**, a software engineer with 9+ years of experience in development and software architecture. 
 
 ## 🚀 Skills
 
